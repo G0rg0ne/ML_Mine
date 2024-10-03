@@ -5,7 +5,8 @@ ML resources :
 I used ChatGPT to organize these links, so if there are any errors please feel free to create a PR w/ the corrections!
 
 ## My Notes
-- [My SVM Optimization Derivation](my_svm_optimization_derivation_link)
+- [My SVM Optimization Derivation](https://ankitnitjsr13.medium.com/math-behind-support-vector-machine-svm-5e7376d0ee4d)
+- [Transformer explainer](https://poloclub.github.io/transformer-explainer/)
 
 ## Go-To Resources
 - [AnalyticsVidhya](https://www.analyticsvidhya.com)
